@@ -1,0 +1,28 @@
+{
+  "spreadsheets": {
+    "studentManagement": {
+      "name": "学生管理用シート",
+      "spreadsheetId": "1FzxB-IU4vSDjpmw6tCF50eh3SkXFIEHaJ-8XvkG8Mdg",
+      "gid": "589944554",
+      "url": "https://docs.google.com/spreadsheets/d/1FzxB-IU4vSDjpmw6tCF50eh3SkXFIEHaJ-8XvkG8Mdg/edit"
+    },
+    "learningHistory": {
+      "name": "学習履歴シート",
+      "spreadsheetId": "1mqJcniXRp0ag7NbTwl3PMfxjswz9Azi1U9CGuPFdN9Q",
+      "gid": "517739650",
+      "url": "https://docs.google.com/spreadsheets/d/1mqJcniXRp0ag7NbTwl3PMfxjswz9Azi1U9CGuPFdN9Q/edit"
+    }
+  },
+  "forms": {
+    "enrollment": {
+      "name": "入学フォーム",
+      "formId": "1FAIpQLSdLIctPCuX4iSaS2Z2ukCapiCVDQqGqe_N-lE884c7JcVDZOw",
+      "url": "https://docs.google.com/forms/d/e/1FAIpQLSdLIctPCuX4iSaS2Z2ukCapiCVDQqGqe_N-lE884c7JcVDZOw/viewform"
+    },
+    "learningRecordTemplate": {
+      "name": "個人専用学習記録フォーム（テンプレート）",
+      "formId": "1FAIpQLSc4rAd5ucxLRjRwPXAe-f5nxOlz-JXibGHtDtqC2kyjhZ9mNQ",
+      "url": "https://docs.google.com/forms/d/e/1FAIpQLSc4rAd5ucxLRjRwPXAe-f5nxOlz-JXibGHtDtqC2kyjhZ9mNQ/viewform"
+    }
+  }
+}
